@@ -28,6 +28,10 @@
 
 ```python espada.py```
 
+# Доп.информация
+
+**Обломитесь маня доксеры, в коде нет готовых почт. Качайте код, добавляйте туда свои почты и кайфуйте, не надо мне в лс лялякать то что софт визуал😛**
+
 # **EN LANGUAGE**
 
 **Espada - Automated Telegram Account/Channel Takedown System**
@@ -56,6 +60,9 @@ This project is a Python script for automatically sending complaints about accou
 
 ```python espada.py```
 
+# Additional information
+
+**Don't get me wrong, Dockers, there are no ready-made emails in the code. Download the code, add your emails, and enjoy it. Don't bother me in the comments about the visual software😛**
 
 # Связь со мной / Contact with me
 [Telegram DM](https://t.me/espadawo)
