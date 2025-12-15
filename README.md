@@ -14,3 +14,14 @@
 3. Мультаккаунтная система - использование не ограниченного количества почт
 4. Случайные задержки между отправками для имитации человеческого поведения
 
+**Установка софта на Termux**
+
+pkg update && pkg upgrade
+
+pkg intall git
+
+git clone https://https://github.com/espadawo/espada-snos
+
+cd espada-snos
+
+python espada.py
